@@ -1,4 +1,4 @@
-# Databricks Bootcamp 2026
+# Databricks Data Lakehouse
 
 Welcome to the **Databricks Data Lakehouse Project**.
 
